@@ -1,2 +1,2 @@
-# Demo estore
-This is a demo repository having an e-store page.
+# Demo
+This is a demo repository.
